@@ -1,4 +1,4 @@
-# damon/memcached:latest
+# howgood/memcached:latest
 FROM debian:jessie
 
 # Install build needs
